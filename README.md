@@ -1,3 +1,5 @@
+> **Repository context:** This is a fork of [Mailgun's transactional-email-templates](https://github.com/mailgun/transactional-email-templates). Template authorship, upstream testing claims and the [LICENSE](LICENSE) belong to the original project. This fork is not presented as an original application by Waleed Mazhar. The original documentation is retained below.
+
 # Responsive transactional HTML email templates
 
 Transactional HTML emails often get neglected. **Styling HTML email is painful**. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers.
